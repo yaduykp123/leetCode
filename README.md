@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/yaduykp123/leetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/yaduykp123/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yaduykp123/leetCode/tree/master/0069-sqrtx) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yaduykp123/leetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/yaduykp123/leetCode/tree/master/0066-plus-one) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Hash Table
 |  |
 | ------- |
