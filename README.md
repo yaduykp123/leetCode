@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yaduykp123/leetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/yaduykp123/leetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/yaduykp123/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yaduykp123/leetCode/tree/master/0069-sqrtx) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yaduykp123/leetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/yaduykp123/leetCode/tree/master/0013-roman-to-integer) |
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yaduykp123/leetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/yaduykp123/leetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
