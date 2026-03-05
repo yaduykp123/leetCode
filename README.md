@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yaduykp123/leetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0088-merge-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/yaduykp123/leetCode/tree/master/0709-to-lower-case) |
+| [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yaduykp123/leetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
 ## Binary Search
