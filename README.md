@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yaduykp123/leetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yaduykp123/leetCode/tree/master/0013-roman-to-integer) |
+| [0387-first-unique-character-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
 ## Linked List
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/yaduykp123/leetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/yaduykp123/leetCode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yaduykp123/leetCode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
