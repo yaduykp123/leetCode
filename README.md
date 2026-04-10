@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yaduykp123/leetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/yaduykp123/leetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yaduykp123/leetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/yaduykp123/leetCode/tree/master/0258-add-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/yaduykp123/leetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Array
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/yaduykp123/leetCode/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yaduykp123/leetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/yaduykp123/leetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yaduykp123/leetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
