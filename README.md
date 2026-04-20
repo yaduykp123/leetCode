@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/yaduykp123/leetCode/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yaduykp123/leetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
 | [0709-to-lower-case](https://github.com/yaduykp123/leetCode/tree/master/0709-to-lower-case) |
 | [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/yaduykp123/leetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yaduykp123/leetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2942-find-words-containing-character](https://github.com/yaduykp123/leetCode/tree/master/2942-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
