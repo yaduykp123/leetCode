@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0088-merge-sorted-array) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/yaduykp123/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/yaduykp123/leetCode/tree/master/2942-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaduykp123/leetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yaduykp123/leetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/yaduykp123/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/yaduykp123/leetCode/tree/master/2942-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
 ## Binary Search
