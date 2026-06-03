@@ -3,9 +3,12 @@
  * @return {number}
  */
 var addDigits = function(num) {
-    let sum = 0;
-    while(num>9){
-        sum = num.toString().split("").reduce((sum, element)=>sum+Number(element),0)
-        num = sum
-    }return num
+   
+    let result
+    for(i=1;i<=num;i++){
+     num = num.toString().split('').reduce((acc , data) => acc + Number(data),0)
+
+    }
+    return result = num
+        
 };
