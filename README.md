@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yaduykp123/leetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaduykp123/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/yaduykp123/leetCode/tree/master/0217-contains-duplicate) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yaduykp123/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yaduykp123/leetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yaduykp123/leetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/yaduykp123/leetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/yaduykp123/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yaduykp123/leetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/yaduykp123/leetCode/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/yaduykp123/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/yaduykp123/leetCode/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
