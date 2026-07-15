@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/yaduykp123/leetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yaduykp123/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/yaduykp123/leetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yaduykp123/leetCode/tree/master/0217-contains-duplicate) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yaduykp123/leetCode/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yaduykp123/leetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
