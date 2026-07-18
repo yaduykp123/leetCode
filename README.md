@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/yaduykp123/leetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/yaduykp123/leetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/yaduykp123/leetCode/tree/master/0283-move-zeroes) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/yaduykp123/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1528-shuffle-string](https://github.com/yaduykp123/leetCode/tree/master/1528-shuffle-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yaduykp123/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/yaduykp123/leetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yaduykp123/leetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yaduykp123/leetCode/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/yaduykp123/leetCode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
