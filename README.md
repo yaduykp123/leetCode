@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/yaduykp123/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/yaduykp123/leetCode/tree/master/2942-find-words-containing-character) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
+| [3925-concatenate-array-with-reverse](https://github.com/yaduykp123/leetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/yaduykp123/leetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3248-snake-in-matrix](https://github.com/yaduykp123/leetCode/tree/master/3248-snake-in-matrix) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/yaduykp123/leetCode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3925-concatenate-array-with-reverse](https://github.com/yaduykp123/leetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Trie
 |  |
 | ------- |
